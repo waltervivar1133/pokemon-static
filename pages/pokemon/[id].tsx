@@ -15,7 +15,7 @@ interface Props {
 
   const router = useRouter();
   
-  console.log(pokemon);
+  // console.log(pokemon);
   
   return (
 
